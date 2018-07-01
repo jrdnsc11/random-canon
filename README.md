@@ -26,7 +26,7 @@ https://github.com/jrdnsc11
 or email: sprogjords@gmail.com to request to view the project report.
 
 *****************************************************************************
-Instructions for jMusic and Random Canon
+INSTRUCTIONS
 *****************************************************************************
 Installing jMusic and Random Canon
 *****************************************************************************
