@@ -23,7 +23,7 @@ This is a Work In Progress (W.I.P) so any feedback/changes/reports are welcome!
 The code was used in a comparitive project with J.Scott. Contact via 
 
 https://github.com/jrdnsc11
-or email: sprogjords@gmail.com to view the report.
+or email: sprogjords@gmail.com to request to view the project report.
 
 *****************************************************************************
 Instructions for jMusic and Random Canon
